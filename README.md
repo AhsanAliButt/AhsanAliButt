@@ -11,9 +11,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhsanAliButt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ My Motivational Quote
-<blockquote>
+
+<blockquote style="font-size: 20px; font-weight: bold; color: #2c3e50;">
   "Rome wasn’t built in a day, but they were laying bricks every hour."
 </blockquote>
+
 
 
 ---
