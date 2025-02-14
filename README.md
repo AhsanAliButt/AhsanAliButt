@@ -12,7 +12,7 @@
 
 ### ✍️ My Motivational Quote
 
-<blockquote style="font-size: 20px; font-weight: bold; color: #2c3e50;">
+<blockquote style="font-size: 40px; font-weight: bold; color: #2c3e50;">
   "Rome wasn’t built in a day, but they were laying bricks every hour."
 </blockquote>
 
